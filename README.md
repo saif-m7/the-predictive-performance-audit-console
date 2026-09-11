@@ -557,7 +557,7 @@ A publicly viewable Google Colab notebook is provided for quick execution and ve
 
 ## Open Week 4 Google Colab Notebook
 
-[Open Week 4 Google Colab Notebook](https://colab.research.google.com/drive/1oS3f2y_bItWgiGkZ-w3MGjxESiSL7jiy?usp=sharing)
+https://colab.research.google.com/drive/1oS3f2y_bItWgiGkZ-w3MGjxESiSL7jiy?usp=sharing
 
 The notebook demonstrates:
 
@@ -579,7 +579,7 @@ The notebook demonstrates:
 
 # GitHub Repository
 
-[Open GitHub Repository](https://github.com/saif-m7/the-predictive-performance-audit-console)
+https://github.com/saif-m7/the-predictive-performance-audit-console
 
 ---
 
